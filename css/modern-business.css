@@ -35,3 +35,9 @@ body {
 .bg-darkedd {
   background-color: #565a5e !important;
 }
+
+.img-half {
+  min-height: 300px;
+  max-height: 300px;
+  width: 100%;
+}
