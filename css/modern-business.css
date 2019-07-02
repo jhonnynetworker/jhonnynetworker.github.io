@@ -20,3 +20,8 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.btn-primary {
+  background-color: #dc3545 !important;
+  border-color: #8a7173;
+}
