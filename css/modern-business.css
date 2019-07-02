@@ -21,7 +21,17 @@ body {
   margin-bottom: 30px;
 }
 
-.btn-primary {
-  background-color: #dc3545 !important;
-  border-color: #8a7173;
+.bg-eddred {
+  background-color: #8F1C1D;
+  border-color: #ccc;
+}
+
+.btn-eddred {
+  background-color: #8F1C1D;
+  color: #fff;
+  font-size: bold;
+}
+
+.bg-darkedd {
+  background-color: #565a5e !important;
 }
