@@ -20,3 +20,18 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.bg-eddred {
+  background-color: #8F1C1D;
+  border-color: #ccc;
+}
+
+.btn-eddred {
+  background-color: #8F1C1D;
+  color: #fff;
+  font-size: bold;
+}
+
+.bg-darkedd {
+  background-color: #565a5e !important;
+}
